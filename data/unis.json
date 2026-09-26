@@ -1,0 +1,14 @@
+{
+  "disclaimer": "2026-era bands are indicative only. Re-check UAC / university handbook for the offer year.",
+  "institutions": [
+    {"id": "uc", "name": "University of Canberra", "group": "family-housing-canberra", "rankHint": 1, "housing": "Canberra family property", "notes": "Commerce / accounting. Lowest living-cost if home node is Canberra.", "indicativeAtar": {"accounting": "70-80"}, "caAccredited": true},
+    {"id": "anu", "name": "Australian National University", "group": "family-housing-canberra", "rankHint": 1, "housing": "Canberra family property", "notes": "Requires passed Year 11 or 12 maths unit + English (R11). Combined law historically high-90s.", "indicativeAtar": {"commerce": "80-92+", "llb": "~97"}, "caAccredited": true},
+    {"id": "scu", "name": "Southern Cross University", "group": "family-housing-nsw-north", "rankHint": 2, "housing": "Northern NSW / Coffs / Gold Coast / Lismore / online", "notes": "Accounting ATAR historically ~70. Conveyancing diploma pathway exists.", "indicativeAtar": {"accounting": "~70"}, "caAccredited": true},
+    {"id": "unsw", "name": "UNSW Sydney", "group": "housing-must-be-solved", "rankHint": 3, "housing": "Sydney — only if housing marked solved", "notes": "Combined law historically ~97.7.", "indicativeAtar": {"combinedLaw": "~97.7"}, "caAccredited": true},
+    {"id": "usyd", "name": "University of Sydney", "group": "housing-must-be-solved", "rankHint": 3, "housing": "Sydney — only if housing marked solved", "notes": "Combined law historically ~99.5.", "indicativeAtar": {"combinedLaw": "~99.5"}, "caAccredited": true},
+    {"id": "mq", "name": "Macquarie University", "group": "housing-must-be-solved", "rankHint": 3, "housing": "Sydney — only if housing marked solved", "notes": "Conveyancing—Law and Practice is a named NSW approved qualification.", "indicativeAtar": {}, "caAccredited": true},
+    {"id": "uts", "name": "UTS", "group": "housing-must-be-solved", "rankHint": 3, "housing": "Sydney — only if housing marked solved", "notes": "Professional accounting / business.", "indicativeAtar": {}, "caAccredited": true},
+    {"id": "exchange", "name": "One exchange semester", "group": "exchange", "rankHint": 4, "housing": "Host + remaining CSP at home uni", "notes": "Default international setting.", "indicativeAtar": {}, "caAccredited": false},
+    {"id": "overseas", "name": "Full overseas bachelor", "group": "full-overseas", "rankHint": 5, "housing": "Self-funded offshore", "notes": "Hidden unless internationalStudy = full-degree.", "indicativeAtar": {}, "caAccredited": false}
+  ]
+}
