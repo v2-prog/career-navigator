@@ -1,0 +1,10 @@
+{
+  "gates": [
+    {"id": "g16", "age": 16, "title": "Age 16 — optional paid skill", "items": ["Allergy kitchen trial done (~20 shifts) or kitchen path rewritten", "If second node is NSW and energy allows: assistant-agent course vs leave it", "Methods T / NSW Advanced still on the Year 11 form", "Hour cap agreed for Year 11 (default <=12 if chasing ATAR)"]},
+    {"id": "g17", "age": 17, "title": "Age 17 — Year 12 package lock", "items": ["AST / HSC exam plan is real, not hoped", "One side-skill only", "College careers adviser has signed the live package", "Family-file conflict named if D + E + books are all on"]},
+    {"id": "g18", "age": 18, "title": "Age 18 — adult tickets", "items": ["CA-accredited bachelor or CIT Cert IV bridge or CA Fundamentals + ATE job", "ACT real-estate licence now legally possible", "NSW Class 2 only after assistant time + qual", "Independent chef contracts only if 18+ and insured", "NSW conveyancer study may start; ACT standalone licence still does not exist"]},
+    {"id": "g20", "age": 20, "title": "Age 20 — identity review", "items": ["Keep or drop chef and real estate as owned fallbacks", "WAM / TES / bridging result vs primary path by 23", "R&D incentives only inside a supervised team", "Housing node for the rest of the degree confirmed"]},
+    {"id": "g23", "age": 23, "title": "Age 23 — professional on-ramp", "items": ["CA practical experience clock running, or tax-law units for Item 201", "Adviser exam only if Path C is still the identity", "NSW conveyancer clock or PLT if E-Law", "One professional ticket in reserve"]},
+    {"id": "g27", "age": 27, "title": "Age 27 — win condition check", "items": ["Pick the actual win: CA/tax agent, licensed agent, NSW conveyancer/solicitor, or insured operator", "Not agent + conveyancer + tax agent on the same family file", "P&L clean enough to show a referee", "Next decade housing node is a choice"]}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ladder": [
+    {"id": "y10-spine", "name": "Year 10 methods on-ramp + cash literacy", "typicalAge": 15, "feeds": ["SPINE", "A", "B", "C", "G"], "cost": "School; time only"},
+    {"id": "nsw-assistant", "name": "NSW assistant-agent certificate of registration", "typicalAge": 16, "feeds": ["D"], "cost": "Short course + Fair Trading fee", "jurisdiction": "NSW"},
+    {"id": "sit30821", "name": "SIT30821 Certificate III in Commercial Cookery", "typicalAge": 16, "feeds": ["F", "G"], "cost": "CIT / RTO; 48 service periods", "note": "Blocked as pass-standing if kitchenAllergy = blocked"},
+    {"id": "asba", "name": "ACT ASbA (Cert II/III band)", "typicalAge": 16, "feeds": ["F", "A", "G"], "cost": "School + employer; hour caps apply", "jurisdiction": "ACT"},
+    {"id": "bsss-ssc", "name": "ACT SSC + TES/AST (or NSW HSC if system is NSW)", "typicalAge": 17, "feeds": ["SPINE", "A", "B", "C", "E"], "cost": "College years"},
+    {"id": "fns40222", "name": "FNS40222 Certificate IV in Accounting and Bookkeeping", "typicalAge": 18, "feeds": ["A", "B", "G"], "cost": "CIT; ATAR-miss bridge"},
+    {"id": "ca-fundamentals", "name": "CA Fundamentals (school-leaver, ATE job)", "typicalAge": 18, "feeds": ["A", "B"], "cost": "Earn-and-learn; 18+ and ATE required"},
+    {"id": "ca-bachelor", "name": "CA-accredited bachelor", "typicalAge": 18, "feeds": ["A", "B", "C"], "cost": "CSP + family housing preferred"},
+    {"id": "cpp41419", "name": "CPP41419 Certificate IV in Real Estate Practice", "typicalAge": 18, "feeds": ["D"], "cost": "RTO then licence in the work jurisdiction"},
+    {"id": "conv-qual", "name": "Approved NSW conveyancing qualification", "typicalAge": 18, "feeds": ["E"], "cost": "Macquarie / SCU / BSB60220 + electives", "jurisdiction": "NSW", "note": "Never labelled as an ACT conveyancer licence"},
+    {"id": "llb", "name": "LLB or later JD + PLT + practising certificate", "typicalAge": 18, "feeds": ["E"], "cost": "High ATAR band for Go8 combined law"},
+    {"id": "ca-graduate", "name": "GradDipCA + 3 years mentored experience", "typicalAge": 21, "feeds": ["A", "B"], "cost": "Employment-led"},
+    {"id": "tpb-201", "name": "TPB Item 201", "typicalAge": 22, "feeds": ["A", "B"], "cost": "On top of accounting degree"},
+    {"id": "adviser-py", "name": "Approved degree + adviser exam + professional year", "typicalAge": 22, "feeds": ["C"], "cost": "Long lag"}
+  ]
+}
