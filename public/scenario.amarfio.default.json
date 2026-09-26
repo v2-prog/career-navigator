@@ -1,0 +1,32 @@
+{
+  "identity": {
+    "childFirstName": "Son",
+    "currentAge": 15,
+    "year11StartYear": 2027
+  },
+  "location": {
+    "homeNode": "Canberra ACT",
+    "secondNode": "Casino NSW",
+    "year11_12System": "ACT-BSSS"
+  },
+  "academic": {
+    "atarIntent": "keep-options",
+    "targetAtarBand": "80-92",
+    "mathsTrack": "Methods-T",
+    "weeklyWorkHoursY11Y12": 12,
+    "asbaWillingness": false
+  },
+  "ambition": {
+    "primaryPathBy23": "A",
+    "secondaryPath": "B",
+    "riskAppetite": "high",
+    "kitchenAllergy": "needs-check",
+    "uniCostStance": "csp-family-housing",
+    "internationalStudy": "exchange-only"
+  },
+  "toggles": {
+    "pathsEnabled": ["SPINE", "A", "B", "C", "D", "E", "F", "G"],
+    "showFamilyPropertyConflictBanner": true
+  },
+  "gateTicks": {}
+}

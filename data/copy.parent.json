@@ -1,0 +1,10 @@
+{
+  "voice": "parent",
+  "thisYearLead": "This year at the current age — study, paid work, and a visible output the parent can referee.",
+  "verifyNote": "Educational planner, not legal, tax, migration or careers advice. Every licence age and university cut-off must be re-checked on the official site.",
+  "labels": {
+    "study": "Study / credential",
+    "work": "Paid work",
+    "output": "Visible output"
+  }
+}
