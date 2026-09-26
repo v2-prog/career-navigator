@@ -1,0 +1,23 @@
+{
+  "lastReviewed": "2026-09-26",
+  "note": "Rules encoded from the build prompt plus official pages checked 26 Sep 2026. Re-verify before acting.",
+  "bodies": [
+    {"id": "nsw-ft-assistant", "name": "NSW Government — Assistant agent certificate of registration", "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/assistant-agent-certificate-of-registration", "covers": ["R1"]},
+    {"id": "nsw-ft-apply", "name": "NSW Government — Applying for a property licence or certificate", "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/applying-for-a-licence-or-certificate", "covers": ["R1"]},
+    {"id": "service-nsw-cert", "name": "Service NSW — Apply for a property certificate of registration", "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-of-registration", "covers": ["R1"]},
+    {"id": "access-canberra-agents", "name": "Access Canberra — Licensing for business, real estate and stock and station agents", "url": "https://www.accesscanberra.act.gov.au/business-and-work/real-estate-and-property/licensing-for-business-real-estate-and-stock-and-station-agents", "covers": ["R2"]},
+    {"id": "act-agents-act", "name": "Agents Act 2003 (ACT) — eligibility: adult", "url": "https://www.legislation.act.gov.au/a/2003-20", "covers": ["R2"]},
+    {"id": "bsss", "name": "ACT Board of Senior Secondary Studies", "url": "https://www.bsss.act.edu.au/", "covers": ["R10"]},
+    {"id": "cit", "name": "Canberra Institute of Technology", "url": "https://cit.edu.au/", "covers": ["R8", "R9"]},
+    {"id": "ca-anz", "name": "Chartered Accountants ANZ", "url": "https://www.charteredaccountantsanz.com/", "covers": ["R5", "R12"]},
+    {"id": "cpa", "name": "CPA Australia", "url": "https://www.cpaaustralia.com.au/", "covers": ["R5"]},
+    {"id": "tpb", "name": "Tax Practitioners Board", "url": "https://www.tpb.gov.au/", "covers": ["R6"]},
+    {"id": "asic", "name": "ASIC — financial advice", "url": "https://www.asic.gov.au/", "covers": ["R7"]},
+    {"id": "anu", "name": "ANU admissions", "url": "https://www.anu.edu.au/study", "covers": ["R11"]},
+    {"id": "uac", "name": "UAC — offer-year cut-offs", "url": "https://www.uac.edu.au/", "covers": ["unis"]},
+    {"id": "training-sit", "name": "training.gov.au SIT30821", "url": "https://training.gov.au/Training/Details/SIT30821", "covers": ["R8"]},
+    {"id": "nsw-fair-trading", "name": "NSW Fair Trading", "url": "https://www.fairtrading.nsw.gov.au/", "covers": ["R1", "R4"]},
+    {"id": "ausindustry", "name": "AusIndustry — R&D Tax Incentive concept", "url": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive", "covers": ["B"]},
+    {"id": "ato", "name": "Australian Taxation Office", "url": "https://www.ato.gov.au/", "covers": ["A", "B"]}
+  ]
+}

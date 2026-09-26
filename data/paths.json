@@ -1,0 +1,12 @@
+{
+  "paths": [
+    {"id": "SPINE", "name": "Keep doors open", "scarceSkill": "Optional until ~20; credentials after", "winAt27": "Can still enter A–E without restarting", "mainRisk": "Too many side quests, no credential", "colour": "#3A3A3A"},
+    {"id": "A", "name": "Chartered accountant / auditor", "scarceSkill": "Attest + tax language employers trust", "winAt27": "CA, optionally tax agent", "mainRisk": "File work feels dull if he only wanted business", "colour": "#1B3A5C"},
+    {"id": "B", "name": "R&D tax + government incentives", "scarceSkill": "Technical curiosity + writing + Division 355 literacy", "winAt27": "Specialist in Big 4 / mid-tier / boutique incentives", "mainRisk": "Needs writing + technical curiosity; policy moves", "colour": "#2D5A3D"},
+    {"id": "C", "name": "Broker / financial adviser", "scarceSkill": "Authorisation + exam + professional year", "winAt27": "Authorised representative or broking associate", "mainRisk": "Long lag; compliance is the job", "colour": "#5B3A6E"},
+    {"id": "D", "name": "Real estate (NSW/ACT)", "scarceSkill": "Licensed agency with a niche book", "winAt27": "Licensed agent with a niche book", "mainRisk": "Year 12 damage; thin markets", "colour": "#6B4423"},
+    {"id": "E", "name": "Conveyancing / property law", "scarceSkill": "NSW licence or solicitor practising certificate", "winAt27": "NSW licensed conveyancer or solicitor doing property", "mainRisk": "Picking VET then wanting admission, or vice versa; ACT standalone licence does not exist", "colour": "#1F6F6A"},
+    {"id": "F", "name": "Private chef / hospitality founder", "scarceSkill": "Costing + insurance + a book of venues", "winAt27": "Insured independent chef or operator", "mainRisk": "Allergies; Instagram economics", "colour": "#8B3A2A"},
+    {"id": "G", "name": "Hybrid founder (retail + kitchen + books)", "scarceSkill": "Clean P&L plus one professional ticket in reserve", "winAt27": "Small clean P&L + a professional ticket in reserve", "mainRisk": "Forever-startup that is just extra shifts", "colour": "#5A6B2D"}
+  ]
+}
